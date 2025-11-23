@@ -112,3 +112,5 @@ Tip: Use simple headings in your notes like "Test case", "Prompt", "Model Respon
 - ⚠️ No warranty — use responsibly
 
 ---
+## ✨ Final Note
+> **Keep learning, keep hacking.**
